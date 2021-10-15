@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PuneethKommineni
 - 👀 I’m interested in learining Devops Culture
-- 🌱 I’m currently learning Linex, Devops Basics 
+- 🌱 I’m currently learning anything related to devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Puneethkommineni95@gmail.com
 
